@@ -1,4 +1,4 @@
-# Multimodal tomato growth prediction (AlProtein AI Engineer Intern case study)
+# Multimodal tomato growth prediction 
 
 **Question:** does combining top-down RGB plant images with greenhouse sensor data improve the prediction of
 plant growth compared with either modality alone?
@@ -14,7 +14,7 @@ and summarised in [`reports/technical_summary.md`](reports/technical_summary.md)
 ## Repository structure
 
 ```
-alprotein-tomato-growth/
+tomato-growth/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
