@@ -1,0 +1,22 @@
+# Data and generated files are not part of the repository
+25 tomato dataset/
+data/
+alprotein_outputs/
+*.parquet
+*.npy
+*.pth
+*.pt
+*.xlsx
+*.csv
+!reports/**/*.csv
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
